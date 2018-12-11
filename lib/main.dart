@@ -3,7 +3,6 @@ import 'package:flutter/rendering.dart';
 import 'package:flutter_app/demo16.dart';
 
 void main() {
-  debugPaintSizeEnabled = true;
   runApp(new MaterialApp(
     title: 'Shopping App',
     theme: ThemeData(
